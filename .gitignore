@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<title>Bruna Luksys</title>
+</head>
+
+<body>
+
+	<section>
+	
+		<article>
+			<header>
+				<h2>Mini Bio</h2>
+				<p>Bruna Luksys, 37 anos, formada auxiliar e técnica de enfermagem, abandonei 2 cargos públicos para me dedicar ao aprendizado da área de tecnologia, grande paixão desde sempre.<br>
+				Atualmente formada em :<br><br>
+				 HTML5 e CSS3 pelo SENAC SP; <br>
+				 Tecnologias Emergentes do seculo XXI pela Mastertech (pertencente a starup Ponte 21); <br>
+				Ainda em busca de mais aprendizado e sonhando em um dia me tornar Full stack. 
+				</p>
+				<p>Fundadora do projeto social chamado Rompendo Barreiras, ainda em fase de validação, que visa o empoderamento de pessoas das periferiaws através do acesso á educação e informação de qualidade, de forma gratuita, com palestras, workshops e oficinas, além de atividades que visam momentos de lazer as comunidades carentes da cidade de São Paulo</p>
+				
+			</header>
+			
+		</article>
+			<nav>
+				<table border="1">
+				  <tr><td> 1 - Escola Virtual </td> <td> <a href="http://www.ev.org.br/"> Link de acesso - Fundação Bradesco </a> </td> </tr>
+					<tr><td> 2 - Youtube </td> <td> <a href="https://www.youtube.com/"> Link de acesso - Youtube </a> </td> </tr>
+   				<tr><td> 3 - w3schols </td> <td> <a href="http://www.w3schools.com/"> Link de acesso - w3schols </a></td> </tr>
+  				<tr><td> 4 - LinkedIn </td> <td> <a href="https://www.youtube.com/"> Link de acesso - Linkedin </a> </td> </tr>
+  				<tr><td> 5 - Stack Overflow </td> <td> <a href="http://pt.stackoverflow.com/"> Link de acesso - Stack Overflow </a> </td> </tr>
+   				<tr><td> 6 - MeetUp </td> <td> <a href="https://www.meetup.com/pt-BR/"> Link de acesso - MeetUp </a> </td> </tr>
+				</table>		
+			</nav>
+				<p>Escrito em 11/01/2017 por <a href="https://br.linkedin.com/in/bruna-luksys-123546128">  Bruna Luksys</a></p>
+
+	</section>
+
+	<footer>
+		<p>Copyright 2017 - Bruna Luksys </p>
+	</footer>
+
+</body>
+
+</html>
